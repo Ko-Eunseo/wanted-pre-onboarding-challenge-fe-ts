@@ -1,6 +1,6 @@
 /**
  * @author Eunseo Go
- * @see <a href="#">배포링크</a>
+ * @see <a href="https://ko-eunseo.github.io/wanted-pre-onboarding-challenge-fe-ts/index.html">배포링크</a>
  */
 
 /**
