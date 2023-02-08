@@ -12,7 +12,7 @@
 
 /**
  * Type of tagList.
- * @type {TagItem[]} TagList
+ * @typedef {TagItem[]} TagList
  */
 
 /**
@@ -27,7 +27,7 @@
 
 /**
  * Type of todoList.
- * @type {TodoItem[]} TodoList
+ * @typedef {TodoItem[]} TodoList
  */
 
 /**
