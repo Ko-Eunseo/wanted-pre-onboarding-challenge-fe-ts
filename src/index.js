@@ -33,7 +33,7 @@
 /**
  * @function Create todo.
  * @param {string} content 
- * @param {string?} category 
+ * @param {string} category 
  * @param {string[]?} tags 
  * @return {TodoItem}
  * @see {@link TodoItem}
